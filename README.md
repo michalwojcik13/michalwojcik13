@@ -22,13 +22,13 @@ Intern at Model Risk Inventory, Reporting & Automation Team (*ING Hubs Poland*);
 **Certificates**
   - Data Science 365 Bootcamp
   - Advanced Pandas Masterclass
-  - AZ-900
+  - AZ/AI-900
   - Multiple DataCamp certificates
 
 **Languages**
   - English (C2) 
-  - Polish(native) 
-  - French(B2)
+  - Polish (native) 
+  - French (B2)
 
 ---
 
