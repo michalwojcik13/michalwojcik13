@@ -1,4 +1,4 @@
-# Michał Wójcik | Junior Data Scientist
+# Michał Wójcik | Junior Data Professional
 - **Bachelor of Quantitative Methods in Economics and Information Systems** (*SGH | Warsaw School of Economics*, *2022-Today*)
 - **Bachelor of Data Science | ERASMUS exchange semester** (*NOVA Information Managment School in Lisbon | 2024 - 2025*)
 
