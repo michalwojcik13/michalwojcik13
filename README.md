@@ -5,7 +5,7 @@
 ---
 ## GENERAL INFORMATION
 **Summary**\
-Soon-to-be graduate looking for a full-time position in a Data Science-related field. Passionate about Machine Learning, Deep Learning, and Econometrics approaches applied in finance and business environments. Personally interested in the Start-up Ecosystem. In spare time, a fan of travelling, hiking(trying to accomplish the Crown of Europe), and various sports (mainly calisthenics).
+Soon-to-be graduate looking for a full-time position in a Data Science-related field. Passionate about Machine Learning, Deep Learning, and Econometrics approaches for Big Data applied in finance and business environments. Personally interested in the Start-up Ecosystem. In spare time, a fan of travelling, hiking(trying to accomplish the Crown of Europe), and various sports (mainly calisthenics).
 
 **Previous Work Experience**\
 Intern at Model Risk Inventory, Reporting & Automation Team (*ING Hubs Poland*);
